@@ -11,21 +11,20 @@ header{
 }
 section{
     background:white;
-    border-radius: 30px;
     padding: 20px;
     width: 180px;
     margin: auto;
+    text-align: center;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.366);
     
 }
 footer{
 
     background:white;
-    border-radius: 50px;
     padding: 30px;
-    width: 180px;
+    width: 160px;
     margin: auto;
     color: black;
     text-align: center;
-    font-style: italic;
+    font-weight: bold;
 }
